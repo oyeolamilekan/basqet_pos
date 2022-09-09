@@ -1,6 +1,6 @@
 # basqet_pos
 
-An simple crypto Point Of Sale app built on (basqet)[https://basqet.com]
+An simple crypto Point Of Sale app built on [basqet](https://basqet.com)
 
 # Installation
 
